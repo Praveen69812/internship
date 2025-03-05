@@ -1,0 +1,151 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    align-items: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.logo{
+    padding-left:35px ;
+    padding-top: 10px;
+
+}
+
+.content{
+    gap: 35px;
+    padding-left: 35px ;
+}
+.content h1{
+    color: rgba(255, 102, 0, 0.938);
+    padding-bottom: 10px;
+    
+}
+.content h2{
+    padding-bottom: 10px;
+    padding-top: 45px;
+}
+.content h3{
+    padding-bottom: 30px;
+}
+.naveen{
+    color: blanchedalmond;
+    background-color: black;
+    padding-top: 5px;
+    width: 100%;
+    height: 30px;
+    padding-bottom: 30px;
+}
+.container{
+    padding-top: 25px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding-left: 15px;
+    padding-bottom: 80px;
+}
+.container h2{
+    font-size: 20px;
+}
+.Programs{
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 85%;
+    gap: 30px;
+    margin-left:60px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    padding: 20px 0;
+    
+}
+.Programs h2{
+    font-size: larger;
+}
+.course img{
+    width: 30px;
+    height:30px ;
+
+}
+.Programs img{
+    width: 100px;
+}
+.total{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.right{
+    text-align: center;
+    
+}
+form{
+    width: 65%;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 15px;
+    justify-self: center;
+    gap:10px
+}
+input[type=text]{
+    width: 100%;
+    margin:15px 0;
+    padding: 10px 5px;
+    border:none;
+    border-bottom: 1px solid rgba(165, 164, 164, 0.801);
+    outline: none;
+}
+.coursed img{
+    width: 40px;
+    height:40px ;
+}
+.coursedm img{
+    width: 60px;
+    height:40px ;
+}
+.Programs .st{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+.st i{
+    color: rgba(255, 102, 0, 0.938);
+    font-size: x-large;
+}
+.container .text{
+    position: relative;
+    right: 10px;
+}
+.right button{
+    width: 60%;
+    border: 1px solid black;
+    background-color: rgba(255, 102, 0, 0.938);
+    border-radius: 30px;
+    padding: 10px 0;
+    margin-top: 5px;
+}
+.radio{
+    text-align: left;
+}
+.radio p, .radio input{
+    margin: 10px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                         
+
+
+
+
